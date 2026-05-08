@@ -48,3 +48,68 @@ Kairos is not a content generator. It is a **simulated cognitive architecture** 
 ---
 
 ## THE SPINE
+
+Four entry points for human interaction. Three autonomous loops between them.
+
+---
+
+## THE DATABASE (KairosDB)
+
+| Table | Purpose |
+|-------|---------|
+| `tokens` | All extracted tokens with domain, score, embedding |
+| `prompts` | Synthesized text prompts ready for images |
+| `images` | Forged images with palettes and metadata |
+| `svo_triplets` | Subject-Verb-Object relationships |
+| `html_blocks` | Composable HTML blocks (style, script, html types) |
+| `repos` | Discovered GitHub repositories |
+| `charons` | Low-value tokens floated to Lethe |
+| `lineage` | Reproductive history of variants |
+| `templates` | Saved HTML template drafts |
+| `hermes_dispatch` through `hera_dispatch` | God-specific dispatch queues |
+
+---
+
+## THE WORKSHOP
+
+- **Apollo** (`apollo.html`) — Daily driver. Runs the full Celer spiral.
+- **Athena** (`athena.html`) — Monaco editor, block composer, sandbox.
+- **Kalendar** (`kalendar.html`) — Lunar cycle tracker. Hades/Persephone thresholds.
+
+---
+
+## THE REPOSITORIES
+
+| Repo | Purpose |
+|------|---------|
+| `kairos-coder/hermes` | Token hunter HTML + assets |
+| `kairos-coder/apollo` | Loop orchestrator |
+| `kairos-coder/athena` | Monaco workshop |
+| `kairos-coder/demeter` | Variant garden |
+| `kairos-coder/hephaestus` | Image forge |
+| `kairos-coder/poseidon` | CSS flow |
+| `kairos-coder/kalendar` | Lunar calendar |
+| *(others as built)* |
+
+---
+
+## THE DAILY PRACTICE
+
+1. **Morning:** Open Apollo. Set the telos. Run Spiralus Celer.
+2. **Midday:** Review outputs. Tweak prompts. Run again.
+3. **Evening:** Open Athena. Run Spiralus Tardus. Deploy or purge.
+4. **New Moon:** Hades purges. Persephone plants the seed.
+
+---
+
+## THE PRINCIPLES
+
+- **Harmonic Cascade:** Each god builds on the previous. Loops stack.
+- **Dialectic Pairs:** Every Olympian has a Chthonic shadow.
+- **Reproductive Architecture:** Gods spawn A/B variants that compete.
+- **φ/π Timing:** Golden ratio builds. Pi reflects. The gap is judgment.
+- **Ouroboros:** Athena watches the system. Apollo critiques Hermes. The snake eats its tail.
+
+---
+
+*Est. May I MMXXVI · Hermes Day · Full Moon*
