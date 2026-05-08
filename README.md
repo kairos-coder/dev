@@ -8,7 +8,7 @@
 
 Kairos is not a content generator. It is a **simulated cognitive architecture** that produces content as a byproduct. Each god is a computational primitive. The pantheon IS the simulation.
 
-### Spiralus Celer (φ) — Fast Generative Spiral
+### Spiralis Celer (φ) — Fast Generative Spiral
 
 | # | God | Edge Function | Time (φⁿ) | Role |
 |---|-----|--------------|-----------|------|
@@ -32,7 +32,7 @@ Kairos is not a content generator. It is a **simulated cognitive architecture** 
 | 4 | ⛓️ **Styx** | 0.146s | Binding oath |
 | 5 | 🌑 **Nyx** | 0.090s | Shadow, concealment |
 
-### Spiralus Tardus (π) — Slow Reflective Spiral
+### Spiralis Tardus (π) — Slow Reflective Spiral
 
 | # | God | Time (πⁿ) | Role |
 |---|-----|-----------|------|
