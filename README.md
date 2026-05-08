@@ -1,26 +1,50 @@
-SPIRALUS CELER (φ exponents)
-─────────────────────────────
-φ¹ = 1.618s  → Hermes
-φ² = 2.618s  → Aphrodite  
-φ³ = 4.236s  → Ares
-φ⁴ = 6.854s  → Demeter
-φ⁵ = 11.09s  → Hephaestus
-φ⁶ = 17.94s  → Poseidon
-φ⁷ = 29.03s  → Apollo
+# 🏛️ KAIROS · OLYMPIAN ENGINE
 
-CHTHONIC SHADOWS (1/φ exponents)
-─────────────────────────────────
-1/φ¹ = 0.618s → Thanatos (instant death)
-1/φ² = 0.382s → Melinoe (flash of madness)
-1/φ³ = 0.236s → Lethe (forgotten before you notice)
-1/φ⁴ = 0.146s → Styx (binding — near-instant)
-1/φ⁵ = 0.090s → Nyx (shadow falls)
+*A generative system where 12 gods, 13 Chthonic shadows, and dual φ/π spirals produce prompts, images, and self-evolving HTML temples.*
 
-SPIRALUS TARDUS (π exponents)
-───────────────────────────────
-π¹ = 3.14s  → Artemis
-π² = 9.87s  → Athena
-π³ = 31.0s  → Dionysus
-π⁴ = 97.4s  → Zeus
-π⁵ = 306s   → Hades (~5 min)
-π⁶ = 961s   → Persephone (~16 min — full cycle breath)
+---
+
+## THE ARCHITECTURE
+
+Kairos is not a content generator. It is a **simulated cognitive architecture** that produces content as a byproduct. Each god is a computational primitive. The pantheon IS the simulation.
+
+### Spiralus Celer (φ) — Fast Generative Spiral
+
+| # | God | Edge Function | Time (φⁿ) | Role |
+|---|-----|--------------|-----------|------|
+| 1 | ⚡ **Hermes** | `hermes-extract` | 1.618s | Hunt tokens from the world |
+| 2 | 💗 **Aphrodite** | `aphrodite-compose` | 2.618s | Compose token pairs with desire |
+| 3 | ⚔️ **Ares** | `ares-transform` | 4.236s | Select verbs, apply force |
+| 4 | 🌾 **Demeter** | `demeter-cultivate` | 6.854s | Cultivate image prompts |
+| 5 | 🔨 **Hephaestus** | `hephaestus-forge` | 11.09s | Forge images via Pollinations.ai |
+| 6 | 🌊 **Poseidon** | `poseidon-flow` | 17.94s | Extract color palettes, generate CSS |
+| 7 | ☀️ **Apollo** | `apollo-synthesize` | 29.03s | Synthesize all outputs, Ouroboros critique |
+
+**Full Celer cycle: ~73 seconds. Output: Prompts + Images + CSS blocks.**
+
+### Chthonic Shadows (1/φ) — Instant Terminal States
+
+| # | Shadow | Time (1/φⁿ) | Role |
+|---|--------|------------|------|
+| 1 | 💀 **Thanatos** | 0.618s | Permanent deletion |
+| 2 | 🌙 **Melinoe** | 0.382s | Madness, nightmare tokens |
+| 3 | 💧 **Lethe** | 0.236s | Forgetting |
+| 4 | ⛓️ **Styx** | 0.146s | Binding oath |
+| 5 | 🌑 **Nyx** | 0.090s | Shadow, concealment |
+
+### Spiralus Tardus (π) — Slow Reflective Spiral
+
+| # | God | Time (πⁿ) | Role |
+|---|-----|-----------|------|
+| 8 | 🏹 **Artemis** | 3.14s | Hunt code repos, HTML patterns |
+| 9 | 🦉 **Athena** | 9.87s | Compose blocks, sandbox testing |
+| 10 | 🍇 **Dionysus** | 31.0s | Vibe check, aesthetic judgment |
+| 11 | 🌩️ **Zeus** | 97.4s | Governance, deployment |
+| 12 | 🏚️ **Hades** | 306s | Purge what fails |
+| 13 | 🌱 **Persephone** | 961s | Plant seed for next Celer cycle |
+
+**Full Tardus cycle: ~19 minutes. Output: Deployed temples + Archived lessons.**
+
+---
+
+## THE SPINE
